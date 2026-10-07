@@ -13,7 +13,7 @@ From the repo root:
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -e .          # add ".[dev]" for mypy + ruff
+pip install -e .       
 ```
 
 ## Demo
